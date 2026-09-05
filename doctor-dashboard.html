@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Doctor Dashboard</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+    <div class="logo">🩺 Sk hosipital</div>
+
+    <nav>
+        <a href="index.html">Home</a>
+        <a href="doctor-login.html">Logout</a>
+    </nav>
+</header>
+
+<section class="dashboard">
+
+    <h1>Doctor Dashboard</h1>
+
+    <div class="welcome">
+        <h2>Welcome, Dr. jeeva👨‍⚕️</h2>
+        <p>Manage your patient appointments.</p>
+    </div>
+
+    <div class="dashboard-cards">
+
+        <div class="stat-card">
+            <span>👥</span>
+            <h2>25</h2>
+            <p>Total Patients</p>
+        </div>
+
+        <div class="stat-card">
+            <span>📅</span>
+            <h2>8</h2>
+            <p>Today's Appointments</p>
+        </div>
+
+        <div class="stat-card">
+            <span>✅</span>
+            <h2>120</h2>
+            <p>Completed</p>
+        </div>
+
+    </div>
+
+    <h2 class="table-title">Today's Appointments</h2>
+
+    <div class="table-container">
+
+        <table>
+
+            <tr>
+                <th>Patient Name</th>
+                <th>Age</th>
+                <th>Time</th>
+                <th>Reason</th>
+                <th>Status</th>
+            </tr>
+
+            <tr>
+                <td>Priya</td>
+                <td>28</td>
+                <td>10:30 AM</td>
+                <td>Regular Checkup</td>
+                <td>
+                    <span class="status">Confirmed</span>
+                </td>
+            </tr>
+
+            <tr>
+                <td>Rahul</td>
+                <td>35</td>
+                <td>11:30 AM</td>
+                <td>Heart Checkup</td>
+                <td>
+                    <span class="status">Confirmed</span>
+                </td>
+            </tr>
+
+            <tr>
+                <td>Anitha</td>
+                <td>42</td>
+                <td>02:00 PM</td>
+                <td>Follow-up</td>
+                <td>
+                    <span class="pending">Pending</span>
+                </td>
+            </tr>
+
+        </table>
+
+    </div>
+
+</section>
+
+</body>
+</html>

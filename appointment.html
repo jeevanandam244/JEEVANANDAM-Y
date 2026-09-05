@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Book Appointment</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+    <div class="logo">🩺 Sk hosipital</div>
+
+    <nav>
+        <a href="index.html">Home</a>
+        <a href="patient-login.html">Patient Login</a>
+        <a href="doctor-login.html">Doctor Login</a>
+        <a href="contact.html">contact</a>
+    </nav>
+</header>
+
+<section class="appointment-section">
+
+    <div class="appointment-box">
+
+        <h2>📅 Book Doctor Appointment</h2>
+        <p>Fill in the details to schedule your appointment.</p>
+
+        <form>
+
+            <div class="form-row">
+
+                <div>
+                    <label>Patient Name</label>
+                    <input type="text"
+                           placeholder="Enter patient name"
+                           required>
+                </div>
+
+                <div>
+                    <label>Phone Number</label>
+                    <input type="tel"
+                           placeholder="Enter phone number"
+                           required>
+                </div>
+
+            </div>
+
+            <label>Email</label>
+            <input type="email"
+                   placeholder="Enter email"
+                   required>
+
+            <label>Select Doctor</label>
+
+            <select required>
+                <option value="">-- Select Doctor --</option>
+                <option>Dr. jeeva - Cardiologist</option>
+                <option>Dr. Prabha - Dermatologist</option>
+                <option>Dr. Rajesh Kumar - Neurologist</option>
+            </select>
+
+            <div class="form-row">
+
+                <div>
+                    <label>Appointment Date</label>
+                    <input type="date" required>
+                </div>
+
+                <div>
+                    <label>Appointment Time</label>
+                    <input type="time" required>
+                </div>
+
+            </div>
+
+            <label>Reason for Visit</label>
+
+            <textarea
+                placeholder="Enter your symptoms or reason for consultation">
+            </textarea>
+
+            <button type="submit" class="login-btn">
+                Confirm Appointment
+            </button>
+
+        </form>
+
+    </div>
+
+</section>
+
+</body>
+</html>
