@@ -213,7 +213,7 @@ markdown
  📸 Screenshots
 
 ### Home Page
-![Home Page](screenshots/home.png)
+![Home Page](Screenshot 2026-08-20 195430)
 
  Patient Login
 ![Patient Login](screenshots/patient-login.png)
@@ -225,10 +225,10 @@ markdown
 ![Appointment Booking](screenshots/appointment.png)
 
  Patient Dashboard
-![Patient Dashboard](screenshots/patient-dashboard.png)
+![Patient Dashboard](C:\Users\ELCOT\OneDrive\Pictures\Screenshots\Screenshot 2026-08-20 195228.png)
 
  Doctor Dashboard
-![Doctor Dashboard](screenshots/doctor-dashboard.png)
+![Doctor Dashboard](‪C:\Users\ELCOT\OneDrive\Pictures\Screenshots\Screenshot 2026-08-20 195030.png)
 ```
 
 
