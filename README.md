@@ -226,7 +226,7 @@ markdown
 
  Doctor Dashboard
 ![Doctor Dashboard](‪C:\Users\ELCOT\OneDrive\Pictures\Screenshots\Screenshot 2026-08-20 195030.png)
-```
+
 
 
 
