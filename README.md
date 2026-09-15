@@ -210,22 +210,22 @@ markdown
  📸 Screenshots
 
 ### Home Page
-![Home Page](Screenshot 2026-08-20 195430)
+![Home Page](home.png)
 
  Patient Login
-![Patient Login](screenshots/patient-login.png)
+![Patient Login](patient-login.png)
 
  Doctor Login
-![Doctor Login](Screenshot 2026-08-20 195149.png)
+![Doctor Login](doctor-login..png)
 
 ### Appointment Booking
-![Appointment Booking](screenshots/appointment.png)
+![Appointment Booking](appointment.png)
 
  Patient Dashboard
-![Patient Dashboard](C:\Users\ELCOT\OneDrive\Pictures\Screenshots\Screenshot 2026-08-20 195228.png)
+![Patient Dashboard](patient-dashboard.png)
 
  Doctor Dashboard
-![Doctor Dashboard](‪C:\Users\ELCOT\OneDrive\Pictures\Screenshots\Screenshot 2026-08-20 195030.png)
+![Doctor Dashboard](‪doctor-dashboard.png)
 
 
 
