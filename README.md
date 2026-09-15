@@ -216,7 +216,7 @@ markdown
 ![Patient Login](screenshots/patient-login.png)
 
  Doctor Login
-![Doctor Login](screenshots/doctor-login.png)
+![Doctor Login](Screenshot 2026-08-20 195149.png)
 
 ### Appointment Booking
 ![Appointment Booking](screenshots/appointment.png)
